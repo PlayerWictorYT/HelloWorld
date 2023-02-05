@@ -1,6 +1,7 @@
 # Hello, World!
 ### History Of Hello, World! [(Source)](https://en.wikipedia.org/wiki/"Hello,_World!"_program)
-[![Run on Repl.it](https://replit.com/badge/github/PlayerWictorYT/HelloWorld)](https://replit.com/new/github/PlayerWictorYT/HelloWorld) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/PlayerWictorYT/HelloWorld?style=social">
+[![Run on Repl.it](https://replit.com/badge/github/PlayerWictorYT/HelloWorld)](https://replit.com/new/github/PlayerWictorYT/HelloWorld)
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/PlayerWictorYT/HelloWorld?style=social"> <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/PlayerWictorYT/HelloWorld?style=social">
 
 
 
